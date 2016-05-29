@@ -1,0 +1,1 @@
+set DEBUG=false & bin\cake server -H localhost -p 80
